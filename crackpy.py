@@ -55,4 +55,3 @@ except Exception:
         print("\033[1;36m ERROR {0} \033[1;m".format(count))
         pass
 
-print(count)
