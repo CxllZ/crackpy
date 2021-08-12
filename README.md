@@ -1,15 +1,4 @@
 # crackpy
-This is a python hash cracker
+Python hash cracker, can also identify hashes
 
-
-Educational purposes only   
-------------------------------   
-
-I am not responsible for you're actions   
-
---------------------------------------------   
-git clone https://github.com/EH30/crackpy   
-cd crackpy   
-python crackpy  
-
---------------------------------------------   
+if you have a wordlist/password file from a url(github, pastebin etc) make sure you get the raw url and replac it with existing url in line 11 of cracker.py file
